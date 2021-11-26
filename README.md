@@ -8,10 +8,21 @@ Thank you very much for participating in our selection process. This project aim
 
 ### Backend
 
+- Create get currencies endpoint
 
+        Create a GET endpoint that return the available currencies to make the exchange on the system (You can select 3 or 4 currencies to list here).
 
-https://exchangeratesapi.io/
-https://fixer.io/
+- Create calcula exchange endpoint
+
+        Calculate the exchange for the selected currency and return the calculated amount.
+
+#### Resources
+
+You can use the following providers to integrate with your API:
+- https://exchangeratesapi.io/
+- https://fixer.io/
+
+Please add instructions about adding external integrations keys and configurations on your project.
 
 ### Frontend
 
