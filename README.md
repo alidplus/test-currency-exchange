@@ -76,3 +76,23 @@ response:
     "amount_exchanged": 0.93
 }
 ```
+
+## Requirements
+
+### Backend project
+
+- You will need to use PHP and the Laravel framework.
+
+### Frontend project
+
+- You will need to use the Vue framework.
+
+### For both projects
+
+- We would like to run your project easily. Please provide all the instructions and resources necessary for it (envs, keys, configs, etc).
+- We would like to see tests **at least** for the main components of your project.
+
+### Extras
+
+- Containerize your project using Docker.
+- It would be nice to see your tests running on your repo (like a Github actions automation).
