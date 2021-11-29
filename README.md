@@ -1,10 +1,10 @@
 # Currency Exchange
 
-Thank you very much for joining our selection process. This project aims to understand how you work and what is your line of reasoning for some items that we work on daily such as integrations with APIs, creation of components, and system architecture.
+Thank you very much for joining our hiring process. This project aims to understand how you work and what is your line of reasoning for some items that we work on daily, such as integrations with APIs, components creation, and system architecture.
 
 ## The Project
 
-In this project, we would like to make a small system for currencies exchange. You will be choosing 3 or 4 different currencies to work with on this system. For the backend side, we would like you to implement two endpoints: one where you can obtain the available currencies for the system and the other one for calculating the exchange. For the frontend side, we would like you to build a simple interface where the user can choose between the available currencies on the system and calculate the exchanged values. You can see more details on each section below
+In this project, we would like you to make a small system for currencies exchange. You will be choosing 3 or 4 different currencies to work with on this system. For the backend side, you should implement two endpoints: one where you can obtain the available currencies for the system and the other one for calculating the exchange. For the frontend side, we would like you to build a simple interface where the user can choose between the available currencies on the system and calculate the exchanged values. You can see more details in the sections below
 
 This test is going to be applied for both backend and frontend roles. If you are a full-stack candidate, feel free to do both and impress us even more.
 
