@@ -44,12 +44,12 @@ Create a page with the following requirements:
 This API is a mock that can be used to create the exchange page by the `Frontend`. Also, it's what must be replicated for the `Backend` side. All responses are static for the mock.
 
 ```
-Endpoint:
+Base URL:
 https://61a0fad86c3b400017e69b41.mockapi.io/
 ```
 
 ```
-GET /currencies
+GET https://61a0fad86c3b400017e69b41.mockapi.io/currencies
 
 [
     {"name":"Euro","symbol":"EUR"},
@@ -60,7 +60,7 @@ GET /currencies
 ```
 
 ```
-POST /exchange
+POST https://61a0fad86c3b400017e69b41.mockapi.io/exchange
 request:
 {
     "from": "USD",
