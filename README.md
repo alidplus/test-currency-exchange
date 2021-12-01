@@ -101,4 +101,6 @@ response:
 
 You can create your own git repo with your project and a `README.md` file containing instructions on how to set up and run it. If your repo is private and on Github please invite both @taiar and @ferfabricio for it (they are going to be the reviewers of your project). If it is not on Github, please provide instructions on how can we check it. Once you are done, please e-mail andre@dash.fi with the link to access and further instructions (if needed).
 
+After that, please schedule our technical interview here: https://calendly.com/dashfi-engineering/engineering-candidate-interview
+
 🤗 **Good luck!** 🤗
