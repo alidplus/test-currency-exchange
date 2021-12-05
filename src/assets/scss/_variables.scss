@@ -1,0 +1,13 @@
+// Imports SCSS theme
+// Vendors variables override and path
+$fa-font-path: "/webfonts" !default;
+$enable-negative-margins: false !default;
+$enable-shadows: false !default;
+$enable-gradients: false !default;
+
+$primary: #218cfd !default;
+
+$btn-font-weight: 999 !default;
+
+@import "bootstrap/scss/variables";
+@import "./bootstrap-extra-utilities/variables";
